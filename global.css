@@ -3,6 +3,11 @@ body {
   margin: 20px 20px;
 }
 
+.center-block{
+  width: 900px;
+  margin: 0px auto;
+}
+
 img {
   width : 100%;
   height: auto;
@@ -13,5 +18,5 @@ p {
 }
 
 ol > li {
-  margin: 10px;
+  margin: 10px 0px;
 }
